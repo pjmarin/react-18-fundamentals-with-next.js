@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "address": "12 valley of kings, Geneva",
+        "country": "Switzerland",
+        "price": 90000
+    },
+    {
+        "id": 2,
+        "address": "89 road of Forks, Bern",
+        "country": "Switzerland",
+        "price": 50000
+    }
+]
